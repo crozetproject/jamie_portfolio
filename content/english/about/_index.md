@@ -10,7 +10,7 @@ skill:
     icon : "fa-pencil-square"
 
   - name : "Science/Technical"
-    icon : "fa-bar-chart"
+    icon : "fa-solid fa-dna"
 
   - name : "Design Thinker"
     icon : "fa-solid fa-lightbulb-cfl-on"
