@@ -16,7 +16,7 @@ skill:
     icon : "fa-solid fa-lightbulb-cfl-on"
 
   - name : "Strategic Insights"
-    icon : "fa-binoculars"
+    icon : "fa-bar-chart"
 
 
 # facts
