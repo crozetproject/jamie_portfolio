@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: "images/jamie-bio-2.jpeg"
+image: ""
 # meta description
 description: "This is meta description."
 
@@ -30,6 +30,9 @@ facts:
 # save as draft
 draft: false
 ---
+
+<img src="/images/jamie-bio-2.jpeg"/>
+</br></br></br>
 
 ### My career is a synthesis of literary & technical
 
