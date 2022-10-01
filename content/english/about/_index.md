@@ -7,16 +7,16 @@ description: "This is meta description."
 # skill
 skill:
   - name : "Writer/Editor"
-    icon : "fa-pencil-square"
+    icon : "fa-solid fa-pen-to-square"
 
   - name : "Science/Technical"
     icon : "fa-solid fa-dna"
 
   - name : "Design Thinker"
-    icon : "fa-solid fa-lightbulb-cfl-on"
+    icon : "fa-thin fa-object-ungroup"
 
   - name : "Strategic Insights"
-    icon : "fa-bar-chart"
+    icon : "fa-light fa-route"
 
 
 # facts
