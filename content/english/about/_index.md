@@ -6,17 +6,17 @@ description: "This is meta description."
 
 # skill
 skill:
-  - name : "Deep Thinker"
-    icon : "fa-tint"
+  - name : "Writer/Editor"
+    icon : "fa-pencil-square"
 
-  - name : "Creative Mentality"
-    icon : "fa-cog"
+  - name : "Science/Technical"
+    icon : "fa-bar-chart"
 
-  - name : "Thoughtful Mind"
-    icon : "fa-flash"
+  - name : "Design Thinker"
+    icon : "fa-solid fa-lightbulb-cfl-on"
 
-  - name : "Good Experienced"
-    icon : "fa-graduation-cap"
+  - name : "Strategic Insights"
+    icon : "fa-binoculars"
 
 
 # facts
@@ -31,7 +31,8 @@ facts:
 draft: false
 ---
 
-### I’m a writer, editor, and marketing strategist. Currently working in the life sciences, I specialize in LIST HERE
+### My career is a synthesis of literary & technical
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vel pharetra fringilla nec facilisi. Pharetra id commodo, eget a varius a. Lacus eget proin nunc, arcu lacus scelerisque blandit. Tristique vivamus porta metus, congue viverra amet dignissim scelerisque. Accumsan ut suscipit vel nisl. Est velit vitae augue interdum. Amet amet ullamcorper aliquam sed elementum senectus. Augue convallis ipsum morbi ultricies luctus. Tempor id tellus dui faucibus nunc, turpis platea sit turpis.
-Dictum massa vitae sed at morbi. Non condimentum libero augue quam. Nisl at integer gravida sagittis phasellus id elit faucibus viverra. At risus fermentum, suspendisse eu. Viverra ipsum commodo ut eget faucibus sed mi lorem nulla. Sagittis semper elit pharetra, diam pharetra odio fermentum orci vestibulum. Sed eget mi dolor id netus bibendum. Lorem maecenas donec turpis nulla nibh mauris mattis in nisl. Mi lobortis ultrices ut neque. Tellus vitae et faucibus pharetra nec odio. Quam dapibus nascetur tempus odio leo ornare. Malesuada dignissim sodales mauris sit eu donec viverra diam. Sit cras velit blandit eget. Feugiat pharetra dis malesuada massa diam nec.
+I am what happens when art and science sit down and have an extended conversation. With an MFA in writing from Columbia University, and nearly twenty years working in science and biotechnology-related fields, I am at my happiest when I can dig into a complex problem, listen for overarching themes, and emerge to tell an actionable story.
+
+In practical terms, this may take the form of videos or immersive experiences depicting cutting-edge science, writing that describes patient or caregiver experiences on the forefront of healthcare, or strategic insights that guide brand or product development for companies leading the genomics revolution.

@@ -100,30 +100,6 @@ enable = true
 expire_days = 2
 
 ############################# social site ########################
-[[params.social]]
-title = "facebook"
-icon = "fa-facebook" # fontawesome icon pack v4.7 : https://fontawesome.com/v4.7.0/icons/
-link = "#"
-
-[[params.social]]
-title = "twitter"
-icon = "fa-twitter" # fontawesome icon pack v4.7 : https://fontawesome.com/v4.7.0/icons/
-link = "#"
-
-[[params.social]]
-title = "instagram"
-icon = "fa-instagram" # fontawesome icon pack v4.7 : https://fontawesome.com/v4.7.0/icons/
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "fa-github" # fontawesome icon pack v4.7 : https://fontawesome.com/v4.7.0/icons/
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "fa-linkedin" # fontawesome icon pack v4.7 : https://fontawesome.com/v4.7.0/icons/
-link = "#"
 
 
 ################################### English language #####################################
@@ -138,7 +114,7 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 ################ banner #############
 [Languages.en.params.banner]
 enable = true
-title = "I'm a writer, editor, and strategist. Currently working in life sciences, <br>I fuse the creative & the technical. <br>See how in my portfolio below."
+title = "I'm a writer, editor, and strategist. Currently working in life science, <br>I fuse the creative & the technical. <br>See how in my portfolio below."
 bg_image = "images/banner.png"
 
 ##### English navigation ############
@@ -188,6 +164,3 @@ weight = 4
 name = "Contact"
 url = "contact"
 weight = 5
-
-
-
