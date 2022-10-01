@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseurl = "http://jamiebennett.work"
+baseurl = "https://jamiebennett.work"
 title = "jamiebennett.work"
 theme = "timeframe"
 # post pagination
