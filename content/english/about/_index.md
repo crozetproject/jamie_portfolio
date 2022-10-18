@@ -21,8 +21,8 @@ skill:
 
 # facts
 facts:
-  - I poked a bear once with a hot tub wand.
-  - One of my past jobs consisted of designing covers for a magazines.
+  - test 1
+  - test 2
   - I speak three languages English, Spanish and French.
   - Contrary to popular belief, I am not a full-time travel blogger.
   - I was a member of the National Swimming Team.
