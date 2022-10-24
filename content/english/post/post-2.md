@@ -1,10 +1,10 @@
 ---
-title: "OK Go and Biology"
+title: "Telling a Story of Music & Biology"
 date: 2022-05-08T12:14:34+06:00
 # post thumb
-image: "images/post/ok-go-2.jpeg"
+image: "images/post/OK_GO_IMG.jpeg"
 # author
-author: "John Doe" # use capitalize
+author: "Jamie Bennett" # use capitalize
 # taxonomies
 categories: ["Long Form"]
 tags: ["nice", "photo"]

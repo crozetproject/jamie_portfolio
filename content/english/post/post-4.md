@@ -1,5 +1,5 @@
 ---
-title: "The SynBio Market Landscape"
+title: "Mapping the SynBio Market Landscape"
 date: 2022-03-07T12:14:34+06:00
 # post thumb
 image: "images/post/syn-bio-2.png"

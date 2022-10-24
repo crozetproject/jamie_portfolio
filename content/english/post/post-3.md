@@ -1,10 +1,10 @@
 ---
-title: "Visualizing Single-Cell Transcriptomics"
+title: "Taking a Look Inside Multiomic Innovation"
 date: 2022-04-07T12:14:34+06:00
 # post thumb
 image: "images/post/single-cell.png"
 # author
-author: "John Doe" # use capitalize
+author: "Jamie Bennett" # use capitalize
 # taxonomies
 categories: ["Scientific & Technical"]
 tags: ["nice", "decorate"]

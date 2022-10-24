@@ -114,7 +114,7 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 ################ banner #############
 [Languages.en.params.banner]
 enable = true
-title = "I'm a life science writer, editor & marketing strategist. My work combines <br>creative expression & technical depth. See how in my portfolio below."
+title = "I’m a life science writer, editor & marketing strategist. My work combines creative expression & technical depth. See how in my portfolio below."
 bg_image = "images/banner.png"
 
 ##### English navigation ############

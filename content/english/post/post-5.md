@@ -1,11 +1,11 @@
 ---
-title: "Cutting-Edge Life Science in VR"
+title: "Exploring Cutting-Edge Life Science in AR/VR"
 
-date: 2022-03-06T12:14:34+06:00
+date: 2022-03-09T12:14:34+06:00
 # post thumb
 image: "images/post/bio-rad-vr-1.png"
 # author
-author: "John Doe" # use capitalize
+author: "Jamie Bennett" # use capitalize
 # taxonomies
 categories: ["Metaverse"]
 tags:

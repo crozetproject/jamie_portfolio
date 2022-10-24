@@ -1,6 +1,6 @@
 ---
-title: "Early Mobility in the ICU"
-date: 2022-06-08T12:14:34+06:00
+title: "Depicting a New Trend in Critical Care"
+date: 2022-06-06T12:14:34+06:00
 # post thumb
 image: "images/post/early-mobility-icu-3.jpeg"
 image-size: "50px"
