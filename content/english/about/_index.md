@@ -21,11 +21,10 @@ skill:
 
 # facts
 facts:
-  - test 1
-  - test 2
-  - I speak three languages English, Spanish and French.
-  - Contrary to popular belief, I am not a full-time travel blogger.
-  - I was a member of the National Swimming Team.
+  - I once interviewed Oliver Sacks
+  - I thrive in creative team settings
+  - I am pursuing an interest in applying design thinking to my work
+  - Fly fishing is that thing I'd do with just a little more time 
 
 # save as draft
 draft: false
@@ -34,7 +33,7 @@ draft: false
 <img src="/images/jamie-bio-2.jpeg"/>
 </br></br></br>
 
-### My career is a synthesis of literary & technical
+### I'm a creative writer with a technical mind
 
 I am what happens when art and science sit down and have an extended conversation. With an MFA in writing from Columbia University, and nearly twenty years working in science and biotechnology-related fields, I am at my happiest when I can dig into a complex problem, listen for overarching themes, and emerge to tell an actionable story.
 
